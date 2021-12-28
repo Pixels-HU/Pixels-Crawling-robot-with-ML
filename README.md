@@ -65,14 +65,6 @@ This is achieved by randomly making angles that will rotate the servos.
 d- Time is taken to finish the learning or number of iterations:
 Normally the number of iterations is at 20 iterations so that means that the robot takes 20 random states and learns from them, however, to improve the accuracy 40 iterations were made to achieve the optimal result.
 
-## Pixels'21 Projects video
-Our Beautiful Projects 🖤✨
-https://www.facebook.com/625298947549642/videos/1105275009909763
-
-## More Projects
-for more projects in different enginneering fields, please visit our wevbsite:
-https://pixelseg.com/project-contest
-![Screenshot (149)](https://user-images.githubusercontent.com/80456446/124113398-b18b8a00-da6b-11eb-8faf-70db2402673c.png)
 
 
 ## Pixels App 
